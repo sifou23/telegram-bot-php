@@ -1,6 +1,6 @@
 <?php
 
-$token = "8026225374:AAFbI-8jm1My1uhsng2L7cNvANu19ys5cZw";
+$token = "7528048532:AAFOx5w06Ftxc9lFdUMj1nTGb4IGlzk6AMM";
 $apiURL = "https://api.telegram.org/bot$token/";
 
 // توليد بيانات فلبينية عشوائية
